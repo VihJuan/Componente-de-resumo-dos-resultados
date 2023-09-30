@@ -1,0 +1,1 @@
+# Componente-de-resumo-dos-resultados
